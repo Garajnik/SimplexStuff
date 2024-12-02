@@ -1,1 +1,1 @@
-# Онлайн решатель задач линейного программирования
+# Visual calculation with simplex algorithm
